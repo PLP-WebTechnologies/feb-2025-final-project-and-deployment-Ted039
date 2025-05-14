@@ -1,25 +1,25 @@
-# Final Project and Deployment
+# Grand Hotel Website 🏨✨  
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+🚀 **Live Site:** [Grand Hotel on Netlify](https://starlit-kashata-9072b4.netlify.app/)  
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## **Overview**  
+Welcome to **Grand Hotel**, a luxurious accommodation experience designed to provide comfort, elegance, and top-tier services.  
+Explore rooms, check available services, and book your stay effortlessly.  
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## **Features**  
+ **Responsive Design** – Works seamlessly across devices   
+ **Dark Mode Toggle** – Allows users to switch themes   
+ **Room Gallery** – Enhances browsing experience  
+ **Smooth Animations & Hover Effects** – Adds interactivity   
+ **Booking Form Validation** – Ensures correct user input 
 
-## Tasks
+## **Tech Stack**  
+🔹 **HTML5** – Structure & Semantics  
+🔹 **CSS3** – Styled with modern flexbox & animations  
+🔹 **JavaScript** – Dynamic interactions & form handling  
+🔹 **Netlify Hosting** – Fast deployment & reliability  
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
-
-Good luck and happy coding! 🚀💻
+## **Installation & Usage**  
+1. Clone the repository:  
+   ```sh
+   git clone <repository-url>
