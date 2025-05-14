@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grand Hotel | Rooms</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script defer src="js/script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Our Rooms</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="rooms.html">Rooms</a></li>
+                <li><a href="booking.html">Book Now</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="gallery">
+        <figure>
+            <img src="images/ikhbale-xMbzmWROWxE-unsplash.jpg" class="thumbnail" onclick="openLightbox('images/ikhbale-xMbzmWROWxE-unsplash.jpg')">
+            <figcaption>Luxury Room</figcaption>
+        </figure>
+
+        <figure>
+            <img src="images/mky-moody-AUF6Gl4wwzA-unsplash.jpg" class="thumbnail" onclick="openLightbox('images/mky-moody-AUF6Gl4wwzA-unsplash.jpg')">
+            <figcaption>Deluxe Room</figcaption>
+        </figure>
+    </section>
+
+
+    <div id="lightbox" class="lightbox">
+        <span onclick="closeLightbox()" class="close">&times;</span>
+        <img id="lightbox-image" alt="Enlarged Room Image">
+    </div>
+
+
+    <footer>
+        <p>&copy; 2025 Grand Hotel | Contact us: +123 456 7890 | Email: info@grandhotel.com</p>
+    </footer>
+</html>
